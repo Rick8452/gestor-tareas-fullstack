@@ -56,3 +56,29 @@ Vue router --                                  |
 2. Las vistas son manejadas por TareasView y NuevaTarea las cuales cuentan con validaciones con Vuelidate y muestra las tareas previamente almacenadas o nuevas.
 
 Con esto y otras implementaciones se obtiene una app de lista de tareas funcional para gestionar tareas del usuario a traves de un CRUD.
+
+Notas adicionales
+
+Se utilizaron los siguientes recursos como apoyo para la gestion de errores y correccion de fallos, y asi asegurar el funcionamento correcto del aplicativo, tambien se utlizo la inteligencia artificial deepseek para corregir algunos errores.
+
+https://stackoverflow.com/questions/78242609/problem-with-react-vite-while-running-the-npm-run-dev-command
+
+https://stackoverflow.com/questions/74186757/localhost-mongodb-connection-with-mongoose-not-working
+
+https://www.youtube.com/watch?v=F53M1sbCPlM&t=147s
+
+https://www.youtube.com/watch?v=Oa5blAV7Fyg&t=6259s
+
+https://www.youtube.com/watch?v=sHXxASRp2nw
+
+https://stackoverflow.com/questions/78491880/nodemon-not-working-when-using-script-but-works-when-i-use-it-manually
+
+https://stackoverflow.com/questions/73408434/vite-failed-to-load-config-from-vite-config-js
+
+https://stackoverflow.com/questions/69959110/im-getting-no-response-of-get-request-with-axios-on-my-node-js-api
+
+https://stackoverflow.com/questions/52039375/stuck-while-installing-packages-npm-err-notarget-no-matching-version-found-for
+
+https://es.stackoverflow.com/questions/409852/aclaracion-en-rutas-nodejs 
+
+https://chat.deepseek.com/
